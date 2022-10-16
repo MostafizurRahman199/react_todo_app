@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MostafizurRahman199/react_todo_app.git/static/css/main.d2803638.css",
+    "main.js": "/MostafizurRahman199/react_todo_app.git/static/js/main.59c9a1c5.js",
+    "static/js/787.2843ca88.chunk.js": "/MostafizurRahman199/react_todo_app.git/static/js/787.2843ca88.chunk.js",
+    "index.html": "/MostafizurRahman199/react_todo_app.git/index.html",
+    "main.d2803638.css.map": "/MostafizurRahman199/react_todo_app.git/static/css/main.d2803638.css.map",
+    "main.59c9a1c5.js.map": "/MostafizurRahman199/react_todo_app.git/static/js/main.59c9a1c5.js.map",
+    "787.2843ca88.chunk.js.map": "/MostafizurRahman199/react_todo_app.git/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2803638.css",
+    "static/js/main.59c9a1c5.js"
+  ]
+}
